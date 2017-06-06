@@ -57,7 +57,11 @@ gem "simple_form"
 
 gem "font-awesome-rails"
 
+gem "figaro"
+
 gem 'devise'
+
+gem 'geocoder'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
